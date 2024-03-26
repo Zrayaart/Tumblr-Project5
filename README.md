@@ -1,23 +1,23 @@
-# Project 5 - *Name of App Here*
+# Project 5 - Tumblr
 
-Submitted by: **Your Name Here**
+Submitted by: Soraya Sardine
 
-Tumblr is an app that ... [TODO] 
+Tumblr is an app that provides an blog feed experience within the app. A table view has been set up with custom cells to display blog post data fetched from Rosanna Pansino's blog. Users can pull-to-refresh the table view to fetch the latest posts and update the feed. Tapping on a post cell will allow users to view the full post details and any associated media content like images or videos. The overall goal is to provide a familiar, visually appealing interface for browsing and consuming blog content similar to popular blogging platforms like Tumblr.
 
-Time spent: **X** hours spent in total
+Time spent: 3 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] App has a configured table view and table view call
-- [ ] App populates the table view with data fetched from an API
+- [X] App has a configured table view and table view call
+- [X] App populates the table view with data fetched from an API
 
 
 The following **optional** features are implemented:
 
-- [ ] App fetches posts from a different Tumblr blog
-- [ ] App has a refresh control to update the table view
+- [X] App fetches posts from a different Tumblr blog
+- [X] App has a refresh control to update the table view
 
 The following **additional** features are implemented:
 
@@ -25,13 +25,11 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide](https://www.youtube.com/watch?v=GA92eKlYio4) .
+https://youtube.com/shorts/1gCwbE2wKfM
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The only challenge I faced while completing this app was getting the API to properly fetch data from a blog and figuring out how to make the refresh function work.
 
 ## License
 
